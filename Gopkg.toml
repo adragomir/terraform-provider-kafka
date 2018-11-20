@@ -27,7 +27,7 @@
 
 [[constraint]]
   name = "github.com/Shopify/sarama"
-  revision = "3c763ff04e6daa57d4a4614e5bcd908f2527c989"
+  version = "v1.17.0"
 
 [[constraint]]
   name = "github.com/hashicorp/terraform"
